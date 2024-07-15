@@ -1,0 +1,4 @@
+F:\Intern_Gyu\homework_C2\homework_C2\obj\Debug\homework_C2.csproj.AssemblyReference.cache
+F:\Intern_Gyu\homework_C2\homework_C2\obj\Debug\GradientBrushCode.g.cs
+F:\Intern_Gyu\homework_C2\homework_C2\obj\Debug\homework_C2_MarkupCompile.cache
+F:\Intern_Gyu\homework_C2\homework_C2\obj\Debug\homework_C2_MarkupCompile.lref

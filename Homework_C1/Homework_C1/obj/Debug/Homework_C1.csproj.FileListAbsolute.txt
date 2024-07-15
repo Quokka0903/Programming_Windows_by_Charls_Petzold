@@ -1,0 +1,9 @@
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\Homework_C1.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\Hello.g.cs
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\HelloColde.g.cs
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\HelloImage.g.cs
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\HelloMedia.g.cs
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\OverlappedStackedText.g.cs
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\WrappedText.g.cs
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\Homework_C1_MarkupCompile.cache
+F:\Intern_Gyu\Homework_C1\Homework_C1\obj\Debug\Homework_C1_MarkupCompile.lref
