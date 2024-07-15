@@ -49,7 +49,7 @@ namespace homework_C2 {
         #line hidden
         
         
-        #line 12 "..\..\GradientBrushCode.xaml"
+        #line 11 "..\..\GradientBrushCode.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock txtblk;
         

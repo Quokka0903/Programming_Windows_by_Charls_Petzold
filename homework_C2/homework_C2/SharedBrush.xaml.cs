@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace homework_C2
 {
     /// <summary>
-    /// GradientBrushCode.xaml에 대한 상호 작용 논리
+    /// SharedBrush.xaml에 대한 상호 작용 논리
     /// </summary>
-    public partial class GradientBrushCode : UserControl
+    public partial class SharedBrush : UserControl
     {
-        public GradientBrushCode()
+        public SharedBrush()
         {
             InitializeComponent();
 

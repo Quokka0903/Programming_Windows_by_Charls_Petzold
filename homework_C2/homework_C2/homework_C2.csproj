@@ -36,7 +36,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="HelloVectorGraphics.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SharedBrush.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="GradientBrushCode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Spiral.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -46,8 +58,17 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HelloVectorGraphics.xaml.cs">
+      <DependentUpon>HelloVectorGraphics.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SharedBrush.xaml.cs">
+      <DependentUpon>SharedBrush.xaml</DependentUpon>
+    </Compile>
     <Compile Include="GradientBrushCode.xaml.cs">
       <DependentUpon>GradientBrushCode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Spiral.xaml.cs">
+      <DependentUpon>Spiral.xaml</DependentUpon>
     </Compile>
     <Compile Include="TextFormating.xaml.cs">
       <DependentUpon>TextFormating.xaml</DependentUpon>
