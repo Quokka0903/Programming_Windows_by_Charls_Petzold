@@ -1,0 +1,22 @@
+﻿<Window x:Class="NaiveBorderText.BetterBorderdText"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NaiveBorderText"
+        mc:Ignorable="d"
+        Title="BetterBorderdText" Height="450" Width="800">
+    <Grid>
+        <Border BorderBrush="Red"
+                BorderThickness="12"
+                CornerRadius="24"
+                Background="Yellow"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+            <TextBlock Text="Hello Windows!"
+                       FontSize="96"
+                       Foreground="Blue"
+                       Padding="24"/>
+        </Border>
+    </Grid>
+</Window>

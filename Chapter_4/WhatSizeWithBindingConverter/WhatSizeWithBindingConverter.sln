@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatSizeWithBindingConverter", "WhatSizeWithBindingConverter\WhatSizeWithBindingConverter.csproj", "{462276A8-409B-4B7F-A942-0F9D6F814EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462276A8-409B-4B7F-A942-0F9D6F814EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462276A8-409B-4B7F-A942-0F9D6F814EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462276A8-409B-4B7F-A942-0F9D6F814EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462276A8-409B-4B7F-A942-0F9D6F814EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FA3893-4325-4E45-B2FB-4FA547A62CC9}
+	EndGlobalSection
+EndGlobal

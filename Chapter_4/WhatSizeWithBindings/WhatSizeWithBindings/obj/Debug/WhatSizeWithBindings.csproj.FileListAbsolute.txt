@@ -1,0 +1,17 @@
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\bin\Debug\WhatSizeWithBindings.exe.config
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\bin\Debug\WhatSizeWithBindings.exe
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\bin\Debug\WhatSizeWithBindings.pdb
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.g.resources
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.exe
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSizeWithBindings.pdb
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSize_1.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\WhatSizeWithBindings\WhatSizeWithBindings\obj\Debug\WhatSize_1.baml

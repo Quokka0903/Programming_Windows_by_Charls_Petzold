@@ -1,0 +1,32 @@
+﻿<Window x:Class="SimpleVerticalStack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleVerticalStack"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Background="Gray" >
+            <TextBlock Text="Right-Aligned Text"
+                       FontSize="48"
+                       HorizontalAlignment="Right" />
+            
+            <Image Source="http://www.charlespetzold.com/pw6/PetzoldJersey.jpg"
+                   Stretch="None" />
+            
+            <TextBlock Text="Figure 1. Petzold heading to the basketball court"
+                       FontSize="24"
+                       HorizontalAlignment="Center" />
+
+            <Ellipse Stroke="Red"
+                     StrokeThickness="12"
+                     Fill="Blue"
+                     Height="48"/>
+            
+            <TextBlock Text="Left-Aligned Text"
+                       FontSize="36"
+                       HorizontalAlignment="Left" />
+        </StackPanel>
+    </Grid>
+</Window>

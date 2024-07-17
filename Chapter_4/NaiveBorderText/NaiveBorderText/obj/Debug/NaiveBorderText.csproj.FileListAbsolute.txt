@@ -1,0 +1,17 @@
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\bin\Debug\NaiveBorderText.exe.config
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\bin\Debug\NaiveBorderText.exe
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\bin\Debug\NaiveBorderText.pdb
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\BetterBorderdText.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\BetterBorderdText.baml
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.g.resources
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.exe
+F:\Intern_Gyu\Repo\Chapter_4\NaiveBorderText\NaiveBorderText\obj\Debug\NaiveBorderText.pdb

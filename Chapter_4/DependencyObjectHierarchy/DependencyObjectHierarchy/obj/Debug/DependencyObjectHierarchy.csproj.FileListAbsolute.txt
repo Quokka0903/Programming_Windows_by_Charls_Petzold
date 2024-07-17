@@ -1,0 +1,5 @@
+F:\Intern_Gyu\Repo\Chapter_4\DependencyObjectHierarchy\DependencyObjectHierarchy\obj\Debug\DependencyObjectHierarchy.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_4\DependencyObjectHierarchy\DependencyObjectHierarchy\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\DependencyObjectHierarchy\DependencyObjectHierarchy\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\DependencyObjectHierarchy\DependencyObjectHierarchy\obj\Debug\DependencyObjectHierarchy_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_4\DependencyObjectHierarchy\DependencyObjectHierarchy\obj\Debug\DependencyObjectHierarchy_MarkupCompile.lref
