@@ -3,8 +3,8 @@
 
 참고 : https://cosmosproject.tistory.com/549
 
-Day 1 : C1, C2(ing) \n
+Day 1 : C1, C2(ing)
 
-Day 2 : C2, C3(ing) \n
+Day 2 : C2, C3(ing)
 
-Day 3 : C3, C4, C5(ing) \n
+Day 3 : C3, C4, C5(ing)
