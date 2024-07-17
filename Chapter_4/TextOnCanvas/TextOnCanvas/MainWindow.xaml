@@ -1,0 +1,22 @@
+﻿<Window x:Class="TextOnCanvas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextOnCanvas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas>
+            <TextBlock Text="Text on Canvas at (0, 0)"
+                       Canvas.Left="0"
+                       Canvas.Top ="0" />
+            <TextBlock Text="Text on Canvas at (200, 100)"
+                       Canvas.Left="200"
+                       Canvas.Top ="100" />
+            <TextBlock Text="Text on Canvas at (400, 200)"
+                       Canvas.Left="400"
+                       Canvas.Top ="200" />
+        </Canvas>
+    </Grid>
+</Window>

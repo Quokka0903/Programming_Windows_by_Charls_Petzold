@@ -1,0 +1,15 @@
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\bin\Debug\TextOnCanvas.exe.config
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\bin\Debug\TextOnCanvas.exe
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\bin\Debug\TextOnCanvas.pdb
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.csproj.AssemblyReference.cache
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\MainWindow.g.cs
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\App.g.cs
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas_MarkupCompile.cache
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas_MarkupCompile.lref
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\MainWindow.baml
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.g.resources
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.Properties.Resources.resources
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.csproj.GenerateResource.cache
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.csproj.CoreCompileInputs.cache
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.exe
+C:\Users\TUKIM\source\repos\TextOnCanvas\TextOnCanvas\obj\Debug\TextOnCanvas.pdb

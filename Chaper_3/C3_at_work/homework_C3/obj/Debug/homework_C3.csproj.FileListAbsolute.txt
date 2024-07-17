@@ -1,0 +1,5 @@
+C:\Users\TUKIM\source\repos\homework_C3\homework_C3\obj\Debug\homework_C3.csproj.AssemblyReference.cache
+C:\Users\TUKIM\source\repos\homework_C3\homework_C3\obj\Debug\Window1.g.cs
+C:\Users\TUKIM\source\repos\homework_C3\homework_C3\obj\Debug\App.g.cs
+C:\Users\TUKIM\source\repos\homework_C3\homework_C3\obj\Debug\homework_C3_MarkupCompile.cache
+C:\Users\TUKIM\source\repos\homework_C3\homework_C3\obj\Debug\homework_C3_MarkupCompile.lref
