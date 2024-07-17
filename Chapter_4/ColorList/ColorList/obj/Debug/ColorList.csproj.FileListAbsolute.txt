@@ -1,0 +1,16 @@
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\bin\Debug\ColorList.exe.config
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\bin\Debug\ColorList.exe
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\bin\Debug\ColorList.pdb
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.g.resources
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.exe
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList.pdb
+F:\Intern_Gyu\Repo\Chapter_4\ColorList\ColorList\obj\Debug\ColorList1.g.cs

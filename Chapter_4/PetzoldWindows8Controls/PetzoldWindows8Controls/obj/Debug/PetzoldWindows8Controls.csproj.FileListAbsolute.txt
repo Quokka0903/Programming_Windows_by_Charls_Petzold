@@ -1,0 +1,11 @@
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\bin\Debug\PetzoldWindows8Controls.dll
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\bin\Debug\PetzoldWindows8Controls.pdb
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\ColorItem.g.cs
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\ColorItem.baml
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls.g.resources
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls.dll
+F:\Intern_Gyu\Repo\Chapter_4\PetzoldWindows8Controls\PetzoldWindows8Controls\obj\Debug\PetzoldWindows8Controls.pdb

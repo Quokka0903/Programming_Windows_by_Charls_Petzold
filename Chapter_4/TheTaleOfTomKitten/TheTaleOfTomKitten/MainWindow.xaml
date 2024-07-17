@@ -6,7 +6,25 @@
         xmlns:local="clr-namespace:TheTaleOfTomKitten"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Background="White">
+        <ScrollViewer>
+            <StackPanel MaxWidth="640"
+                        HorizontalAlignment="Center">
+                <TextBlock Style="{StaticResource paragraphTextStyle}">
+                    &#x2003;&#x2003;Mittens laghed so that she fell off the wall. Moppet and Tom descend after her; the pinafores and all the rest of Tom's clothes came off on the way down.
+                </TextBlock>
+
+                <TextBlock Style="{StaticResource paragraphTextStyle}">
+                    &#x2003;&#x2003;Mittens laghed so that she fell off the wall. Moppet and Tom descend after her; the pinafores and all the rest of Tom's clothes came off on the way down.
+                </TextBlock>
+
+                <Image Source="Images/tom39.jpg" />
+
+                <TextBlock Style="{StaticResource paragraphTextStyle}">
+                    &#x2003;&#x2003;Mittens laghed so that she fell off the wall. Moppet and Tom descend after her; the pinafores and all the rest of Tom's clothes came off on the way down.
+                </TextBlock>
+
+            </StackPanel>
+        </ScrollViewer>
     </Grid>
 </Window>
