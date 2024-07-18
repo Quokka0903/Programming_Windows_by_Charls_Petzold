@@ -1,0 +1,16 @@
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\bin\Debug\ColorScrollWithViewModel.exe.config
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\bin\Debug\ColorScrollWithViewModel.exe
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\bin\Debug\ColorScrollWithViewModel.pdb
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.g.resources
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.exe
+F:\Intern_Gyu\Repo\Chapter_6\ColorScrollWithViewModel\ColorScrollWithViewModel\obj\Debug\ColorScrollWithViewModel.pdb

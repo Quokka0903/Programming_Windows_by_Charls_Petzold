@@ -6,7 +6,41 @@
         xmlns:local="clr-namespace:ColorScrollWithViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <local:RgbViewModel x:Key="rgbViewModel" />
+    </Window.Resources>
+    
     <Grid>
-        
+
+        <TextBlock Text="Red"
+                   Grid.Column="0"
+                   Grid.Row="0"
+                   Foreground="Red" />
+
+        <Slider Grid.Column="0"
+                Grid.Row="1"
+                Value="{Binding Source = {StaticResource rgbViewModel}, 
+                                Path = Red, 
+                                Mode = TwoWay}"
+                Foreground="Red" />
+
+        <TextBlock Text="{Binding Source = {StaticResource rgbViewModel},
+                                  Path = Red, 
+                                  Converter = {StaticResource hexConverter}}"
+                   Grid.Column="0"
+                   Grid.Row="2"
+                   Foreground="Red" />
+
+        <Rectangle Grid.Column="3"
+                   Grid.Row="0"
+                   Grid.RowSpan="3">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="{Binding Source={StaticResource rgbViewModel}, Path=Color}" />
+            </Rectangle.Fill>
+
+        </Rectangle>
+            
+
     </Grid>
 </Window>
