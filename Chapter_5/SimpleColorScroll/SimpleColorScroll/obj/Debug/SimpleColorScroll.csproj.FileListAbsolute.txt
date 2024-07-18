@@ -1,0 +1,15 @@
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\bin\Debug\SimpleColorScroll.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\bin\Debug\SimpleColorScroll.exe
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\bin\Debug\SimpleColorScroll.pdb
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.exe
+F:\Intern_Gyu\Repo\Chapter_5\SimpleColorScroll\SimpleColorScroll\obj\Debug\SimpleColorScroll.pdb

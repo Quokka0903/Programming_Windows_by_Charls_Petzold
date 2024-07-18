@@ -1,0 +1,15 @@
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\bin\Debug\LineCapsAndJoins.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\bin\Debug\LineCapsAndJoins.exe
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\bin\Debug\LineCapsAndJoins.pdb
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.exe
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoins\LineCapsAndJoins\obj\Debug\LineCapsAndJoins.pdb

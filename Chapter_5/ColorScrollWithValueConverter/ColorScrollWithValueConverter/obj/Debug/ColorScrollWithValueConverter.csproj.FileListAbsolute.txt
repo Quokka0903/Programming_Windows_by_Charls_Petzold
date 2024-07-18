@@ -1,0 +1,8 @@
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\ColorScrollWithValueConverter.csproj.AssemblyReference.cache
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\App.g.cs
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\ColorScrollWithValueConverter_MarkupCompile.cache
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\ColorScrollWithValueConverter_MarkupCompile.lref
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\ColorScrollWithValueConverter.exe
+C:\Users\TUKIM\source\repos\ColorScrollWithValueConverter\ColorScrollWithValueConverter\obj\Debug\ColorScrollWithValueConverter.pdb

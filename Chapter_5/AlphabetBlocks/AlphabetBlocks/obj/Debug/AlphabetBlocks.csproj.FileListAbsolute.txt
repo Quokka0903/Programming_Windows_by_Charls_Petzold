@@ -1,0 +1,17 @@
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\Block.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\bin\Debug\AlphabetBlocks.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\bin\Debug\AlphabetBlocks.exe
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\bin\Debug\AlphabetBlocks.pdb
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\Block.baml
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.exe
+F:\Intern_Gyu\Repo\Chapter_5\AlphabetBlocks\AlphabetBlocks\obj\Debug\AlphabetBlocks.pdb

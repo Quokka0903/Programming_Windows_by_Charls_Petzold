@@ -1,0 +1,15 @@
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\bin\Debug\SliderSketch.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\bin\Debug\SliderSketch.exe
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\bin\Debug\SliderSketch.pdb
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.exe
+F:\Intern_Gyu\Repo\Chapter_5\SliderSketch\SliderSketch\obj\Debug\SliderSketch.pdb

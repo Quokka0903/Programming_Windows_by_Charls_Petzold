@@ -1,0 +1,15 @@
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\bin\Debug\ButtonVarieties.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\bin\Debug\ButtonVarieties.exe
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\bin\Debug\ButtonVarieties.pdb
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.exe
+F:\Intern_Gyu\Repo\Chapter_5\ButtonVarieties\ButtonVarieties\obj\Debug\ButtonVarieties.pdb

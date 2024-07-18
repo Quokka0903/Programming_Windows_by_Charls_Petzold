@@ -1,0 +1,15 @@
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\bin\Debug\TextBoxInputScopes.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\bin\Debug\TextBoxInputScopes.exe
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\bin\Debug\TextBoxInputScopes.pdb
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.exe
+F:\Intern_Gyu\Repo\Chapter_5\TextBoxInputScopes\TextBoxInputScopes\obj\Debug\TextBoxInputScopes.pdb

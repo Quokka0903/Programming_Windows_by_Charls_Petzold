@@ -1,0 +1,15 @@
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.exe.config
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.exe
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.pdb
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.g.resources
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.exe
+F:\Intern_Gyu\Repo\Chapter_5\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.pdb

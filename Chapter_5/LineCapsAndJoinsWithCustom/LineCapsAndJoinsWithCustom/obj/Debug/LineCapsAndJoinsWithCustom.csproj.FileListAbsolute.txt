@@ -1,0 +1,8 @@
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\LineCapsAndJoinsWithCustom.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\LineCapsAndJoinsWithCustom_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\LineCapsAndJoinsWithCustom_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\LineCapsAndJoinsWithCustom.exe
+F:\Intern_Gyu\Repo\Chapter_5\LineCapsAndJoinsWithCustom\LineCapsAndJoinsWithCustom\obj\Debug\LineCapsAndJoinsWithCustom.pdb
