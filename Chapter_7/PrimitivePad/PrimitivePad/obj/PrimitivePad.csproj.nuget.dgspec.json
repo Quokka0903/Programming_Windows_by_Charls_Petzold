@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Intern_Gyu\\유동윤 이사님 과제\\20240715_WindowsPrograming\\Repo\\Chapter_7\\PrimitivePad\\PrimitivePad\\PrimitivePad.csproj": {}
+  },
+  "projects": {
+    "F:\\Intern_Gyu\\유동윤 이사님 과제\\20240715_WindowsPrograming\\Repo\\Chapter_7\\PrimitivePad\\PrimitivePad\\PrimitivePad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Intern_Gyu\\유동윤 이사님 과제\\20240715_WindowsPrograming\\Repo\\Chapter_7\\PrimitivePad\\PrimitivePad\\PrimitivePad.csproj",
+        "projectName": "PrimitivePad",
+        "projectPath": "F:\\Intern_Gyu\\유동윤 이사님 과제\\20240715_WindowsPrograming\\Repo\\Chapter_7\\PrimitivePad\\PrimitivePad\\PrimitivePad.csproj",
+        "packagesPath": "C:\\Users\\TUKIM\\.nuget\\packages\\",
+        "outputPath": "F:\\Intern_Gyu\\유동윤 이사님 과제\\20240715_WindowsPrograming\\Repo\\Chapter_7\\PrimitivePad\\PrimitivePad\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Nevron Software\\Nevron .NET Vision 2022.2\\NugetPackage\\nevrondotnetvision",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TUKIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\NevronDotNetVision.23.3.9.12.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Nevron Software\\Nevron .NET Vision 2022.2\\NugetPackage\\nevrondotnetvision": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.12, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\bin\Debug\KeypadWithViewModel.exe.config
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\bin\Debug\KeypadWithViewModel.exe
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\bin\Debug\KeypadWithViewModel.pdb
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel_MarkupCompile.lref
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\MainWindow.baml
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.g.resources
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.Properties.Resources.resources
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.csproj.GenerateResource.cache
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.csproj.CoreCompileInputs.cache
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.exe
+F:\Intern_Gyu\Repo\Chapter_6\KeypadWithViewModel\KeypadWithViewModel\obj\Debug\KeypadWithViewModel.pdb

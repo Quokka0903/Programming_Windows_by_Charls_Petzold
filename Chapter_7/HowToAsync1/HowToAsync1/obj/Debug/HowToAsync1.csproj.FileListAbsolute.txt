@@ -1,0 +1,5 @@
+F:\Intern_Gyu\Repo\Chapter_7\HowToAsync1\HowToAsync1\obj\Debug\HowToAsync1.csproj.AssemblyReference.cache
+F:\Intern_Gyu\Repo\Chapter_7\HowToAsync1\HowToAsync1\obj\Debug\MainWindow.g.cs
+F:\Intern_Gyu\Repo\Chapter_7\HowToAsync1\HowToAsync1\obj\Debug\App.g.cs
+F:\Intern_Gyu\Repo\Chapter_7\HowToAsync1\HowToAsync1\obj\Debug\HowToAsync1_MarkupCompile.cache
+F:\Intern_Gyu\Repo\Chapter_7\HowToAsync1\HowToAsync1\obj\Debug\HowToAsync1_MarkupCompile.lref

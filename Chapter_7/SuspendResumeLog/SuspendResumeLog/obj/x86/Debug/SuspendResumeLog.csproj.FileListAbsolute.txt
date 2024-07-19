@@ -1,0 +1,9 @@
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\SuspendResumeLog.csproj.AssemblyReference.cache
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\App.g.i.cs
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\App.g.cs
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\MainPage.g.i.cs
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\MainPage.g.cs
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\App.xaml
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\MainPage.xaml
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\App.xbf
+F:\Intern_Gyu\유동윤 이사님 과제\20240715_WindowsPrograming\Repo\Chapter_7\SuspendResumeLog\SuspendResumeLog\obj\x86\Debug\MainPage.xbf
