@@ -3,9 +3,9 @@
 
 참고 :
 
-1) https://cosmosproject.tistory.com/549
-2) https://learn.microsoft.com/ko-kr/uwp/api/?view=winrt-22621
-3) https://www.informit.com/content/images/9780735671768/downloads/9780735671768_files.zip
+1) https://cosmosproject.tistory.com/549                                                        - 이벤트 핸들러
+2) https://learn.microsoft.com/ko-kr/uwp/api/?view=winrt-22621                                  - 공식 문서
+3) https://www.informit.com/content/images/9780735671768/downloads/9780735671768_files.zip      - 코드 원본
 
 
 Day 1 : C1, C2(ing)
