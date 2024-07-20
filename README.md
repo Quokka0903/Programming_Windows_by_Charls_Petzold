@@ -17,3 +17,5 @@ Day 3 : C3, C4, C5(ing)
 Day 4 : C5, C6(ing)
 
 Day 5 : C6, C7, C8(ing) -> 교재 내용이 WDF가 아니라 UWP 프로젝트인 것을 뒤늦게 깨달음.. 클래스 찾느라 혼났네
+
+Day 6 : C8, C9
