@@ -1,0 +1,1 @@
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chapter_11\SharedStyleWithDataTemplate\SharedStyleWithDataTemplate\SharedStyleWithDataTemplate.csproj;x86

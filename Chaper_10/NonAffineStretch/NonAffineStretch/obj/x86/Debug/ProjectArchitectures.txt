@@ -1,0 +1,1 @@
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\NonAffineStretch\NonAffineStretch\NonAffineStretch.csproj;x86
