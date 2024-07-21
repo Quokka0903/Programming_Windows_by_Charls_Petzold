@@ -1,0 +1,135 @@
+﻿<Page
+    x:Class="AnimationEaseGrapher.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AnimationEaseGrapher"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <Storyboard x:Key="storyboard"
+                    FillBehavior="Stop">
+            <DoubleAnimation Storyboard.TargetName="redBall"
+                             Storyboard.TargetProperty="(Canvas.Left)"
+                             From="-6" To="994" Duration="0:0:3" />
+
+            <DoubleAnimation x:ConnectionId='2' x:Name="anima2"
+                             Storyboard.TargetName="redBall"
+                             Storyboard.TargetProperty="(Canvas.Top)"
+                             From="-6" To="494" Duration="0:0:3" />
+        </Storyboard>
+    </Page.Resources>
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- 제어 -->
+        <Grid Grid.Column="0"
+              VerticalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <!-- 감속 -->
+            <StackPanel x:ConnectionId='5' Name="easingFunctionStackPanel"
+                        Grid.Row="0"
+                        Grid.RowSpan="3"
+                        Grid.Column="0"
+                        VerticalAlignment="Center">
+                <RadioButton x:ConnectionId='12' Content="None"
+                             Margin="6"
+                                                                          />
+            </StackPanel>
+
+            <!-- 모드 -->
+            <StackPanel x:ConnectionId='6' Name="easingModeStackPanel"
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+                <RadioButton x:ConnectionId='9' Content="Ease In"
+                             Margin="6"
+                                                                     >
+                    <RadioButton.Tag>
+                        <EasingMode>EaseIn</EasingMode>
+                    </RadioButton.Tag>
+                </RadioButton>
+
+                <RadioButton x:ConnectionId='10' Content="Ease Out"
+                            Margin="6"
+                                                                    >
+                    <RadioButton.Tag>
+                        <EasingMode>EaseOut</EasingMode>
+                    </RadioButton.Tag>
+                </RadioButton>
+
+                <RadioButton x:ConnectionId='11' Content="Ease In/Out"
+                             Margin="6"
+                                                                     >
+                    <RadioButton.Tag>
+                        <EasingMode>EaseInOut</EasingMode>
+                    </RadioButton.Tag>
+                </RadioButton>
+            </StackPanel>
+
+            <!-- 속성 -->
+            <StackPanel x:ConnectionId='7' Name="propertiesStackPanel"
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center" />
+
+            <!-- 시연 -->
+            <Button x:ConnectionId='8' Grid.Row="2"
+                    Grid.Column="1"
+                    Content="Demo!"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                                              />
+        </Grid>
+
+        <!-- 그래프 -->
+        <Viewbox Grid.Column="1">
+            <Grid Width="1000"
+                  Height="500"
+                  Margin="0 250 0 250">
+
+                <!-- 사각 외곽 -->
+                <Polygon Points="0 0, 1000 0, 1000 500, 0 500"
+                         Stroke="{StaticResource ApplicationForegroundThemeBrush}"
+                         StrokeThickness="3" />
+
+                <Canvas>
+                    <!-- 선형 변환 -->
+                    <Polyline Points="0 0, 1000 500"
+                              Stroke="{StaticResource ApplicationForegroundThemeBrush}"
+                              StrokeThickness="1"
+                              StrokeDashArray="3 3" />
+
+                    <!-- 좌표 -->
+                    <Polyline x:ConnectionId='3' Name="polyline"
+                              Stroke="Blue"
+                              StrokeThickness="3" />
+
+                    <!-- 공 -->
+                    <Ellipse x:ConnectionId='4' Name="redBall"
+                             Width="12"
+                             Height="12"
+                             Fill="Red" />
+                </Canvas>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</Page>
+

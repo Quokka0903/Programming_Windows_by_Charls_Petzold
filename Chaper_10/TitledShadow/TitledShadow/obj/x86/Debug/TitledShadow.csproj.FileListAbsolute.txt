@@ -1,0 +1,9 @@
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\TitledShadow.csproj.AssemblyReference.cache
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\App.g.i.cs
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\App.g.cs
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\MainPage.g.i.cs
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\MainPage.g.cs
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\App.xaml
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\MainPage.xaml
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\App.xbf
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chaper_10\TitledShadow\TitledShadow\obj\x86\Debug\MainPage.xbf

@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\TitledShadow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A817F889-DCE9-427C-B7F2-E3EEB60BDE2A}|TitledShadow\\TitledShadow.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chaper_10\\titledshadow\\titledshadow\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A817F889-DCE9-427C-B7F2-E3EEB60BDE2A}|TitledShadow\\TitledShadow.csproj|solutionrelative:titledshadow\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\TitledShadow\\TitledShadow\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TitledShadow\\MainPage.xaml",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\TitledShadow\\TitledShadow\\MainPage.xaml",
+              "RelativeToolTip": "TitledShadow\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T07:28:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

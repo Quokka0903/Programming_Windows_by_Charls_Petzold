@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chapter_9\\AnimationEaseGrapher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8675EED8-76FB-402C-BDD7-8BBCB0EDD664}|AnimationEaseGrapher\\AnimationEaseGrapher.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chapter_9\\animationeasegrapher\\animationeasegrapher\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8675EED8-76FB-402C-BDD7-8BBCB0EDD664}|AnimationEaseGrapher\\AnimationEaseGrapher.csproj|solutionrelative:animationeasegrapher\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8675EED8-76FB-402C-BDD7-8BBCB0EDD664}|AnimationEaseGrapher\\AnimationEaseGrapher.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chapter_9\\animationeasegrapher\\animationeasegrapher\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8675EED8-76FB-402C-BDD7-8BBCB0EDD664}|AnimationEaseGrapher\\AnimationEaseGrapher.csproj|solutionrelative:animationeasegrapher\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chapter_9\\AnimationEaseGrapher\\AnimationEaseGrapher\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AnimationEaseGrapher\\MainPage.xaml.cs",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chapter_9\\AnimationEaseGrapher\\AnimationEaseGrapher\\MainPage.xaml.cs",
+              "RelativeToolTip": "AnimationEaseGrapher\\MainPage.xaml.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:49:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chapter_9\\AnimationEaseGrapher\\AnimationEaseGrapher\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AnimationEaseGrapher\\MainPage.xaml",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chapter_9\\AnimationEaseGrapher\\AnimationEaseGrapher\\MainPage.xaml",
+              "RelativeToolTip": "AnimationEaseGrapher\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T16:28:58.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

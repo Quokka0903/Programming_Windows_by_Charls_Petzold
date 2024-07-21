@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\RotateTheText\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6FCCFC-473B-4B25-8A02-346A60A4D063}|RotateTheText\\RotateTheText.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chaper_10\\rotatethetext\\rotatethetext\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C6FCCFC-473B-4B25-8A02-346A60A4D063}|RotateTheText\\RotateTheText.csproj|solutionrelative:rotatethetext\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\RotateTheText\\RotateTheText\\MainPage.xaml",
+              "RelativeDocumentMoniker": "RotateTheText\\MainPage.xaml",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\RotateTheText\\RotateTheText\\MainPage.xaml",
+              "RelativeToolTip": "RotateTheText\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T05:00:11.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

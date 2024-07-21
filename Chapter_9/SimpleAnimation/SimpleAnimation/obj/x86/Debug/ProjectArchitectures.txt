@@ -1,0 +1,1 @@
+D:\quokka\WDF_homework\Programming_Windows_by_Charls_Petzold\Chapter_9\SimpleAnimation\SimpleAnimation\SimpleAnimation.csproj;x86

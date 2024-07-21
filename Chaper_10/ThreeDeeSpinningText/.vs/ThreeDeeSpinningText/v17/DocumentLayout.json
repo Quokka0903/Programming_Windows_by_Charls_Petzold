@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\ThreeDeeSpinningText\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD014DF-3074-46A6-B0B5-DB57518D66C0}|ThreeDeeSpinningText\\ThreeDeeSpinningText.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chaper_10\\threedeespinningtext\\threedeespinningtext\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD014DF-3074-46A6-B0B5-DB57518D66C0}|ThreeDeeSpinningText\\ThreeDeeSpinningText.csproj|solutionrelative:threedeespinningtext\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD014DF-3074-46A6-B0B5-DB57518D66C0}|ThreeDeeSpinningText\\ThreeDeeSpinningText.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chaper_10\\threedeespinningtext\\threedeespinningtext\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBD014DF-3074-46A6-B0B5-DB57518D66C0}|ThreeDeeSpinningText\\ThreeDeeSpinningText.csproj|solutionrelative:threedeespinningtext\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\ThreeDeeSpinningText\\ThreeDeeSpinningText\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ThreeDeeSpinningText\\MainPage.xaml.cs",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\ThreeDeeSpinningText\\ThreeDeeSpinningText\\MainPage.xaml.cs",
+              "RelativeToolTip": "ThreeDeeSpinningText\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:06:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\ThreeDeeSpinningText\\ThreeDeeSpinningText\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ThreeDeeSpinningText\\MainPage.xaml",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\ThreeDeeSpinningText\\ThreeDeeSpinningText\\MainPage.xaml",
+              "RelativeToolTip": "ThreeDeeSpinningText\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T11:06:13.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

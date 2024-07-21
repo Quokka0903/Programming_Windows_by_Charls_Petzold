@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\TextEffects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43272D4-66C2-4BCA-8332-C0E7E443E7BE}|TextEffects\\TextEffects.csproj|d:\\quokka\\wdf_homework\\programming_windows_by_charls_petzold\\chaper_10\\texteffects\\texteffects\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C43272D4-66C2-4BCA-8332-C0E7E443E7BE}|TextEffects\\TextEffects.csproj|solutionrelative:texteffects\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\TextEffects\\TextEffects\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TextEffects\\MainPage.xaml",
+              "ToolTip": "D:\\quokka\\WDF_homework\\Programming_Windows_by_Charls_Petzold\\Chaper_10\\TextEffects\\TextEffects\\MainPage.xaml",
+              "RelativeToolTip": "TextEffects\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T05:20:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
