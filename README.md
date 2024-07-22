@@ -20,4 +20,6 @@ Day 5 : C6, C7, C8(ing) -> 교재 내용이 WDF가 아니라 UWP 프로젝트인
 
 Day 6 : C8, C9
 
-Day 7 : C10, C11
+Day 7 : C10, C11(ing)
+
+Day 8 : C11, C12(ing)
